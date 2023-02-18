@@ -1,8 +1,8 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-family: sans-serif;
 }
 header {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     border-color: purple;                     
     border-width: 2px;
     border-style: solid;
