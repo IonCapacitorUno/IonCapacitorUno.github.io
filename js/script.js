@@ -1,17 +1,17 @@
 const myImages = [
     {
         src: "/images/Whaleshark3.jpg",
-        description: "A caterpillar eating some fennel.",
+        description: "A Whaleshark swimming through the Ocean.",
         alt: "caterpillar"
     },
     {
         src: "/images/Whaleshark2.jpg",
-        description: "A itchy chipmunk.",
+        description: "Top down view of the Whaleshark.",
         alt: "chipmunk"
     },
     {
         src: "/images/Whaleshark.jpg",
-        description: "An amazing hair-do.",
+        description: "A Whaleshark.",
         alt: "hair-do"
     },
 ];
