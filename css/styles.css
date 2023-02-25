@@ -25,7 +25,7 @@ a:hover {
 header {
     flex: 1;
     font-family: var(--theme-alternate-font);
-    color: white;
+    color: black;
     background-color: var(--theme-primary);
     border-color: var(--theme-alert);
     border-width: 3px;
@@ -99,7 +99,7 @@ header>nav>ul li {
 footer {
     flex: 1;
     font-family: var(--theme-alternate-font);
-    color: white;
+    color: black;
     background-color: var(--theme-primary);
     border-color: var(--theme-alert);
     border-width: 3px;
