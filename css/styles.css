@@ -3,10 +3,18 @@ body {
 }
 header {
     font-family: sans-serif;
-    border-color: purple;                     
+    border-color: purple;                  
     border-width: 2px;
     border-style: solid;
 }
+:root {
+    --theme-primary: #134786;
+    --theme-secondary: #8ff0a4;
+    --theme-alert: #ff5100;
+    --theme-normal-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --theme-alternate-font: Georgia, 'Times New Roman', Times, serif;
+}
+
 body {
     font-family: var(--theme-normal-font);
     margin: 0;
@@ -25,7 +33,7 @@ a:hover {
 header {
     flex: 1;
     font-family: var(--theme-alternate-font);
-    color: black;
+    color: white;
     background-color: var(--theme-primary);
     border-color: var(--theme-alert);
     border-width: 3px;
@@ -99,7 +107,7 @@ header>nav>ul li {
 footer {
     flex: 1;
     font-family: var(--theme-alternate-font);
-    color: black;
+    color: white;
     background-color: var(--theme-primary);
     border-color: var(--theme-alert);
     border-width: 3px;
